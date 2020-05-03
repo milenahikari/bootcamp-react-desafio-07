@@ -1,5 +1,5 @@
 <h2 align="center">
-  Desafio 07: GoFinances Web
+  Desafio 07: GoFinances Web 💜
 </h2>
 
 <h2>Sobre o desafio</h2>
